@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://demonxrd.daemonxrdlegion.workers.dev/$1"
+      "destination": "https://daemonxrd.daemonxrdlegion.workers.dev/$1"
     }
   ]
 }
